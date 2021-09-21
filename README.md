@@ -1,4 +1,4 @@
-# Hybrid-Genetic-Algorithm-with-Adaptive-Crosfor-Path-Planning
+# Hybrid-Genetic-Algorithm-with-Adaptive-Crossover-for-Path-Planning
 A new adaptive crossover method is proposed to solve the Multi Travelling Salesman Problem (mTSP) using real parameter Genetic Algorithm, to minimize the longest tour. The crossover operator used is dynamically changed with respect to the spread of the distances travelled by each salesman. A two-part chromosome is used to represent each candidate solution and crossover method is designed for the same.
 
 # Instruction:
