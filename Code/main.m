@@ -1,4 +1,4 @@
-%% This code calls the GA_Berlin for r runs and m salesman.
+%% This code calls the GA_Berlin for r runs and m salesman
 % ------------------------------------------------------------------------------------------------------------------
 % INPUTS
 % m: No of salesman
