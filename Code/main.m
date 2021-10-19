@@ -1,4 +1,4 @@
-%% This code calls the GA_Berlin for r runs and m salesman analytically simulates the 3D temporal pressure field for arbitrary number of monopoles.
+%% This code calls the GA_Berlin for r runs and m salesman.
 % ------------------------------------------------------------------------------------------------------------------
 % INPUTS
 % m: No of salesman
